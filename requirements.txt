@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+# Para instalarlo por console se ejecuta el siguiente código
+# pip install -r .\requirements.txt
